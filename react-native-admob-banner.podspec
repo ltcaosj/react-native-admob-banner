@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.source_files = "ios/**/*.{h,m,swift}"  
 
   s.dependency "React"
-	
-  # s.dependency "..."
+	s.dependency "Google-Mobile-Ads-SDK"
+  
 end
 
